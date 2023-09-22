@@ -8,6 +8,13 @@ Index.html file
 
 ![image](https://github.com/albertdudek7/Visualize_Earthquake_Data_Using_Leaflet/assets/127783844/4d4691ff-f50b-43fc-80d5-c7447f201b85)
 
+Logic.js file
+
+![image](https://github.com/albertdudek7/Visualize_Earthquake_Data_Using_Leaflet/assets/127783844/a29706d8-f63e-4f6b-b4c5-b14b1e42b582)
+
+![image](https://github.com/albertdudek7/Visualize_Earthquake_Data_Using_Leaflet/assets/127783844/7813c80b-5335-47b9-9feb-0a620210b1f3)
+
+
 
 Part 1: Create the Earthquake Visualization
 
